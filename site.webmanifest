@@ -1,0 +1,10 @@
+{
+  "name": "Muhammad Sibtain Javed",
+  "short_name": "Sibtain Javed",
+  "description": "Shia Islamic content creator from Lahore.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [{ "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
